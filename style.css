@@ -61,3 +61,6 @@ body {
 		transform: scale(1);
 	}
 }
+#audio {
+	display:none;
+}
